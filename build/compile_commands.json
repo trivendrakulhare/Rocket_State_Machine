@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/include -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/stateMachine.dir/src/main.cpp.o -c /Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/main.cpp",
+  "file": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/main.cpp"
+},
+{
+  "directory": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/include -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/stateMachine.dir/src/CountDown.cpp.o -c /Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/CountDown.cpp",
+  "file": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/CountDown.cpp"
+},
+{
+  "directory": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/include -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/stateMachine.dir/src/FairingJettison.cpp.o -c /Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/FairingJettison.cpp",
+  "file": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/FairingJettison.cpp"
+},
+{
+  "directory": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/include -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/stateMachine.dir/src/LaunchPadRelease.cpp.o -c /Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/LaunchPadRelease.cpp",
+  "file": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/LaunchPadRelease.cpp"
+},
+{
+  "directory": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/include -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/stateMachine.dir/src/NextEngine.cpp.o -c /Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/NextEngine.cpp",
+  "file": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/NextEngine.cpp"
+},
+{
+  "directory": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/include -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/stateMachine.dir/src/InitialEngineIgnition.cpp.o -c /Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/InitialEngineIgnition.cpp",
+  "file": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/InitialEngineIgnition.cpp"
+},
+{
+  "directory": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/include -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/stateMachine.dir/src/Termination.cpp.o -c /Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/Termination.cpp",
+  "file": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/Termination.cpp"
+},
+{
+  "directory": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/include -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/stateMachine.dir/src/PayloadRealease.cpp.o -c /Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/PayloadRealease.cpp",
+  "file": "/Users/trivendrakulhare/Documents/CodingFolder/rocket_State_machine/StateMachine/src/PayloadRealease.cpp"
+}
+]
